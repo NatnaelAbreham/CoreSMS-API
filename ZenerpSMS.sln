@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZenerpSMS", "ZenerpSMS.csproj", "{1B810A03-C441-48A6-AC8B-5E06D3767DDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B810A03-C441-48A6-AC8B-5E06D3767DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B810A03-C441-48A6-AC8B-5E06D3767DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B810A03-C441-48A6-AC8B-5E06D3767DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B810A03-C441-48A6-AC8B-5E06D3767DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A519961C-7455-4125-811D-962CB87400FB}
+	EndGlobalSection
+EndGlobal
