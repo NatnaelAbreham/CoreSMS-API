@@ -1,4 +1,14 @@
-Developed using ASP.NET Core, this project provides an API for SMS integration. It allows users to interact with an external SMS service via a secure API. The API requires a username and password for authentication and provides access to the SMS service through defined routes. This project demonstrates how to integrate with an SMS API and how to create your own API that can consume the integrated SMS service using custom credentials.
+
+## Project Overview
+
+Developed using **ASP.NET Core**, this project provides a secure API for SMS integration. It enables users to interact with an external SMS service through defined routes, requiring a **username** and **password** for authentication. The project serves as both an example of how to integrate with an SMS API and how to create your own API that consumes an external SMS service using custom credentials.
+
+Additionally, the system implements strict logging practices. Logs are stored in the structured format:
+`/foldername/yy/mm/dd`,
+ensuring organized, date-based log management for easy access, debugging, and monitoring.
+
+---
+
 
 Example API Request
 
